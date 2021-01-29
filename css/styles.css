@@ -9,9 +9,20 @@ body {
 	padding-bottom: 2%;
 }
 
+.header {
+  font-weight: 700;
+  text-align: center;
+  padding: 12px 12px;
+}
+
 .content {
-	color: white;
-  margin-top: 3%;
+	.content {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  box-shadow: 0 0 3px black;
+    color: white;
+  padding: 12px 36px;
+}
 }
 
 a { text-decoration: none !important; }
