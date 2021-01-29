@@ -74,3 +74,7 @@ iframe {
 	color: white;
   margin-left: 10px;
 }
+
+hr.white {
+	border-top: 1px solid white;
+}
