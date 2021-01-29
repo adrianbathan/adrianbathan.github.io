@@ -16,11 +16,22 @@ body {
 }
 
 .content {
+    color: white;
+  }
+
+.aboutme {
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 10px;
   box-shadow: 0 0 3px black;
     color: white;
-  padding: 12px 36px;
+  padding: 12px 12px;
+	display: inline-block;
+	align-content: center;
+}
+
+.linkss {
+	color: blue; 
+	word-spacing: 30px;
 }
 
 a { text-decoration: none !important; }
