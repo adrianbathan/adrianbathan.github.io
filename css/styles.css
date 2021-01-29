@@ -1,0 +1,72 @@
+* {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.content {
+  margin-top: 3%;
+}
+
+a { text-decoration: none !important; }
+
+.gif {
+  width: 49%;
+  height: 100%;
+}
+
+iframe {
+  display: block;
+}
+
+#carouselIndicators-element-x .carousel-inner {
+  margin-top: 50px;
+  height: 600px !important;
+}
+
+#carouselIndicators-element-x .carousel-item img {
+  width: 1000px;
+  height: 600px;
+  margin: auto;
+}
+
+#carouselIndicators-element-x-waifu .carousel-inner {
+  margin-top: 0px;
+  height: 600px !important;
+}
+
+#carouselIndicators-element-x-waifu .carousel-item img {
+  width: 750px;
+  height: 600px;
+  margin: auto;
+}
+
+
+#carouselIndicators-character-modeller .carousel-inner {
+  max-height: 400px !important;
+}
+
+#carouselIndicators-character-modeller .carousel-item img {
+  width: 427px;
+  height: 400px;
+  margin: auto;
+}
+
+#carouselIndicators-character-modeller .carousel-control-next,
+#carouselIndicators-character-modeller .carousel-control-prev {
+    filter: invert(100%);
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon
+{
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.links a:not(:first-child) {
+  margin-left: 10px;
+}
