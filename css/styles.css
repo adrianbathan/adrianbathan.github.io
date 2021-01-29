@@ -16,13 +16,11 @@ body {
 }
 
 .content {
-	.content {
-  background-color: rgba(255, 255, 255, 0.3);
-  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
   box-shadow: 0 0 3px black;
     color: white;
   padding: 12px 36px;
-}
 }
 
 a { text-decoration: none !important; }
