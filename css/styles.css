@@ -69,5 +69,6 @@ iframe {
 }
 
 .links a:not(:first-child) {
+	color: white;
   margin-left: 10px;
 }
