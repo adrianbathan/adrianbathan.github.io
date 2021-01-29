@@ -24,7 +24,8 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 3px black;
     color: white;
-  padding: 12px 12px;
+  padding: 30px 12px;
+  padding-bottom: 12px;
 	display: inline-block;
 	align-content: center;
 }
@@ -33,6 +34,7 @@ body {
 	color: blue; 
 	word-spacing: 30px !important;
 }
+
 
 a { text-decoration: none !important; }
 
