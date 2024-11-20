@@ -5,6 +5,7 @@
 
 body {
 	background-image: url("https://i.redd.it/vfcfyfyehhi31.png");
+	background-size:100% auto;
 	padding-top: 2%;
 	padding-bottom: 2%;
 }
